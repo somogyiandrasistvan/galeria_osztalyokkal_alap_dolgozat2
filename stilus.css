@@ -1,3 +1,24 @@
+.nagykep img{
+    width: 100%;
+}
+
+.nagykep{
+    width: 70%;
+    border-radius: 10px;
+    border: 1px solid darkgray;
+    padding: 10px;
+    margin: 10px auto;
+    display: flex;
+}
+
+.nagykep>button{
+    flex: 0 0 20px;
+}
+
+button{
+    border: 1px groove darkgray;
+}
+
 body {
     background: beige;
     margin: 0;
